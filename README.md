@@ -49,11 +49,11 @@ In particular, we sought to understand:
 
   - Alternative Hypothesis: The more the percentage of without health insurance, the more the confirmed cases and/or death rates.
 
-  ![Health Insurance](Images/health_insurance.PNG)
+  ![Health Insurance](Images/health_insurace.PNG)
 
-  ![Health Insurance Alabama](Images/health_insurance_Alabama.PNG)
+  ![Health Insurance Alabama](Images/health_insurace_Alabama.PNG)
 
-  ![Health Insurance New York](Images/health_insurance_NY.PNG)
+  ![Health Insurance New York](Images/health_insurace_NY.PNG)
 
   - Conclusions from the scattter plots and linear regression models indicate that COVID-19 deaths in various counties are weakly affected by the percentage of population without health insurance. the low p-values for all the plots implies that the null hypothesis should be rejected while the low r-values suggest that there is a weak correlation between population without health insusrance and case counts and/or death rates.
 
